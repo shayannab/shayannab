@@ -112,7 +112,17 @@ const shayanna = {
 
 ---
 
-## 🔥 Recent Activity
+## � Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/shayannab/shayannab/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## �🔥 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
