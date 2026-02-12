@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=400&lines=Full-Stack+%7C+ML+%7C+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Shayanna+Behera;Full-Stack+%7C+ML+%7C+Cloud)](https://git.io/typing-svg)
 
 </div>
 
