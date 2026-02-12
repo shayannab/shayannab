@@ -28,11 +28,11 @@
 
 ---
 
-## 📈 GitHub Activity
+## � GitHub Activity
 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shayannab&custom_title=Contribution%20Activity&bg_color=0D1117&color=6366F1&line=8B5CF6&point=FFFFFF&area=true&hide_border=true)
+  
+![Neon Worm](https://raw.githubusercontent.com/shayannab/shayannab/output/neon.svg)
 
 </div>
 
