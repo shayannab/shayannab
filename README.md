@@ -2,9 +2,15 @@
 
 ![Header](https://raw.githubusercontent.com/shayannab/shayannab/main/header/newbgless.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayanna-behera)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shayanna.tech)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shayanna_0)
+<a href="https://linkedin.com/in/shayanna-behera" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="https://shayanna.tech" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
+</a>
+<a href="https://twitter.com/shayanna_0" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter" width="40" height="40"/>
+</a>
 
 </div>
 
