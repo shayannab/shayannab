@@ -2,21 +2,15 @@
 
 ![Header](https://raw.githubusercontent.com/shayannab/shayannab/main/header/newbgless.png)
 
-<a href="https://linkedin.com/in/shayanna-behera" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="https://shayanna.tech" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
-</a>
-<a href="https://twitter.com/shayanna_0" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter" width="40" height="40"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayanna-behera)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shayanna.tech)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shayanna_0)
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/About_Me-783194?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About Me" />
+## 👋 About Me
 
 <div align="center">
 
@@ -34,7 +28,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/GitHub_Activity-783194?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity" />
+## 📈 GitHub Activity
 
 <div align="center">
   
@@ -44,7 +38,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Let's_Connect-783194?style=for-the-badge&logo=handshake&logoColor=white" alt="Let's Connect" />
+## 📫 Let's Connect
 
 <div align="center">
 
