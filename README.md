@@ -28,21 +28,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[PinPeek](https://github.com/shayannab/pinpeek)** | Chrome extension for distraction-free Pinterest visual previews directly in browser | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **[BlockOPs](https://github.com/lviffy/BlockOPs)** | No-code blockchain automation platform for building AI-powered on-chain agents | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **[Promptory](https://github.com/shayannab/Promptory)** | AI prompt management and optimization tool | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **[LawGeeks-Pro](https://github.com/shayannab/LawGeeks-Pro)** | AI solution to demystify legal documents using Gemini and RAG | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![AI](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square) |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
