@@ -116,7 +116,7 @@ const shayanna = {
 
 <div align="center">
   
-![Contribution Graph](https://raw.githubusercontent.com/shayannab/shayannab/output/ocean.svg)
+![Contribution Graph](https://raw.githubusercontent.com/shayannab/shayannab/output/rainboq.svg)
 
 </div>
 
