@@ -28,19 +28,7 @@
 
 ---
 
-## � Contribution Skyline
-
-<div align="center">
-
-[![Skyline](https://skyline.github.com/shayannab/2025)](https://skyline.github.com/shayannab/2025)
-
-**[View My 3D Contribution Skyline →](https://skyline.github.com/shayannab/2025)**
-
-</div>
-
----
-
-## � Contribution Animation
+## 💚 Neon Worm Animation
 
 <div align="center">
   
@@ -50,7 +38,7 @@
 
 ---
 
-##  Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
