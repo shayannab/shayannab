@@ -26,12 +26,6 @@
 **🤖 AI & Tools:**  
 `Gemini` `RAG` `LLMs` `Chrome Extensions` `Blockchain Automation`
 
-**🔨 Current Projects:**  
-[PinPeek](https://github.com/shayannab/pinpeek) • [BlockOPs](https://github.com/lviffy/BlockOPs) • [Promptory](https://github.com/shayannab/Promptory)
-
-**⚡ Fun Fact:**  
-I turn ideas into extensions faster than you can say `manifest.json`! 🎯
-
 ---
 
 ## 🌟 Featured Projects
