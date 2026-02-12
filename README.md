@@ -116,7 +116,7 @@ const shayanna = {
 
 <div align="center">
   
-![Isometric Contributions](https://metrics.lecoq.io/shayannab?template=classic&base=header&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata&config.twemoji=true&config.display=large)
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=shayannab&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true&theme=react-dark)
 
 </div>
 
