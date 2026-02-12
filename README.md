@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Shayanna
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%7C+ML+Engineer+%7C+Cloud+Architect;Building+AI-powered+apps+%26+Chrome+extensions;Turning+coffee+into+code+%E2%98%95%F0%9F%92%BB)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=SHAYANNA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayanna-behera)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shayanna.tech)
@@ -12,16 +10,21 @@
 
 ---
 
-## �️ Tech Stack
+## 👋 About Me
 
-**💻 Full-Stack:**  
-`JavaScript` `TypeScript` `Python` `React` `Next.js` `Node.js` `TailwindCSS`
+<div align="center">
 
-**🤖 AI & ML:**  
-`Gemini` `RAG` `LLMs` `TensorFlow` `PyTorch`
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;ML+Engineer;Cloud+Architect)](https://git.io/typing-svg)
 
-**☁️ Cloud & Tools:**  
-`AWS` `GCP` `Docker` `Git` `Chrome Extensions` `Blockchain Automation`
+</div>
+
+<div align="center">
+
+`JavaScript` • `TypeScript` • `Python` • `React` • `Next.js` • `Node.js`  
+`TensorFlow` • `PyTorch` • `AWS` • `GCP` • `Docker` • `Kubernetes`  
+`Gemini AI` • `RAG` • `LLMs` • `Chrome Extensions`
+
+</div>
 
 ---
 
