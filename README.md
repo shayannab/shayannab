@@ -116,7 +116,7 @@ const shayanna = {
 
 <div align="center">
   
-![Contribution Graph](https://raw.githubusercontent.com/shayannab/shayannab/output/rainboq.svg)
+![Isometric Contributions](https://metrics.lecoq.io/shayannab?template=classic&base=header&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata&config.twemoji=true&config.display=large)
 
 </div>
 
