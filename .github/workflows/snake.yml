@@ -21,14 +21,17 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Generate the snake animation
-      - name: Generate github-contribution-grid-snake.svg
+      # Generate the contribution graph animations with different themes
+      - name: Generate contribution graph animations
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.svg?palette=ocean-dark&color_snake=#00ffff&color_dots=#0a4d68,#1679ab,#5debd7,#74e291,#ffe3a3
+            dist/rainbow.svg?palette=github-dark&color_snake=#ff6ec7&color_dots=#440381,#31087b,#1a0b6f,#0e0e52,#071952
+            dist/neon.svg?palette=github-dark&color_snake=#39ff14&color_dots=#0d1117,#1a1f35,#2d3561,#5b4d8f,#8b5fbf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
