@@ -69,14 +69,7 @@
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
