@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shayannab/shayannab/main/header/darkHeader.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shayannab/shayannab/main/header/dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shayannab/shayannab/main/header/header.png">
   <img alt="Header" src="https://raw.githubusercontent.com/shayannab/shayannab/main/header/header.png">
 </picture>
