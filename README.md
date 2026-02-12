@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Shayanna
 
-### Full-Stack Developer | AI/LLM Enthusiast | Chrome Extension Builder
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%7C+ML+Engineer+%7C+Cloud+Architect;Building+AI-powered+apps+%26+Chrome+extensions;Turning+coffee+into+code+%E2%98%95%F0%9F%92%BB)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayanna-behera)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shayanna.tech)
@@ -12,19 +12,16 @@
 
 ---
 
-## 🚀 About Me
+## �️ Tech Stack
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Chrome+Extension+Specialist+%E2%9C%A8;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
-**💻 Tech Stack:**  
+**💻 Full-Stack:**  
 `JavaScript` `TypeScript` `Python` `React` `Next.js` `Node.js` `TailwindCSS`
 
-**🤖 AI & Tools:**  
-`Gemini` `RAG` `LLMs` `Chrome Extensions` `Blockchain Automation`
+**🤖 AI & ML:**  
+`Gemini` `RAG` `LLMs` `TensorFlow` `PyTorch`
+
+**☁️ Cloud & Tools:**  
+`AWS` `GCP` `Docker` `Git` `Chrome Extensions` `Blockchain Automation`
 
 ---
 
