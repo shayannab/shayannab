@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About Me
+## <img src="https://img.shields.io/badge/About_Me-783194?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About Me" />
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 📫 Let's Connect
+## <img src="https://img.shields.io/badge/Let's_Connect-783194?style=for-the-badge&logo=handshake&logoColor=white" alt="Let's Connect" />
 
 <div align="center">
 
