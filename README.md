@@ -14,21 +14,23 @@
 
 ## 🚀 About Me
 
-```javascript
-const shayanna = {
-    code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TailwindCSS"],
-        backEnd: ["Node.js", "Express"],
-        aiTools: ["Gemini", "RAG", "LLMs"],
-        specialties: ["Chrome Extensions", "Blockchain Automation", "No-Code Platforms"],
-        tools: ["Git", "VS Code", "Figma"]
-    },
-    currentProjects: ["PinPeek", "BlockOPs", "Promptory"],
-    currentFocus: "Building AI-powered Chrome extensions & blockchain tools",
-    funFact: "I turn ideas into extensions faster than you can say 'manifest.json'"
-};
-```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Chrome+Extension+Specialist+%E2%9C%A8;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+**💻 Tech Stack:**  
+`JavaScript` `TypeScript` `Python` `React` `Next.js` `Node.js` `TailwindCSS`
+
+**🤖 AI & Tools:**  
+`Gemini` `RAG` `LLMs` `Chrome Extensions` `Blockchain Automation`
+
+**🔨 Current Projects:**  
+[PinPeek](https://github.com/shayannab/pinpeek) • [BlockOPs](https://github.com/lviffy/BlockOPs) • [Promptory](https://github.com/shayannab/Promptory)
+
+**⚡ Fun Fact:**  
+I turn ideas into extensions faster than you can say `manifest.json`! 🎯
 
 ---
 
