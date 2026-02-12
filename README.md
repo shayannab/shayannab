@@ -1,6 +1,10 @@
 <div align="center">
 
-![Header](https://raw.githubusercontent.com/shayannab/shayannab/main/header/header.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shayannab/shayannab/main/header/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shayannab/shayannab/main/header/header.png">
+  <img alt="Header" src="https://raw.githubusercontent.com/shayannab/shayannab/main/header/header.png">
+</picture>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayanna-behera)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shayanna.tech)
