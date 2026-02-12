@@ -116,7 +116,7 @@ const shayanna = {
 
 <div align="center">
   
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=shayannab&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true&theme=react-dark)
+![Neon Worm](https://raw.githubusercontent.com/shayannab/shayannab/output/neon.svg)
 
 </div>
 
