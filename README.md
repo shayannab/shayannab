@@ -28,7 +28,7 @@
 
 ---
 
-## � GitHub Activity
+## <img src="https://img.shields.io/badge/GitHub_Activity-783194?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity" />
 
 <div align="center">
   
