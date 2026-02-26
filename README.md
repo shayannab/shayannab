@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
   
@@ -47,7 +47,7 @@
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
